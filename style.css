@@ -1,9 +1,15 @@
-.texto{
-color: darkcyan;
+.cabecario{
+    background-color: rgb(124, 122, 122);
 }
 
-.container{
- display: flex;
- gap: 40px;
-} 
+.hh{
+    background-color: rgb(255, 255, 255);
+}
 
+.xx{
+    background-color: rgb(190, 190, 190);
+}
+
+.ll{
+    background-color: rgb(255, 255, 255);
+}
